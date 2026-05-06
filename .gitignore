@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+model/
+.dvc/cache
+.DS_store
+mlruns/
+*.pyc
+
